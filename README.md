@@ -1,0 +1,1 @@
+This is a trial project for the Odin project. It will be an imitation of the google homepage
